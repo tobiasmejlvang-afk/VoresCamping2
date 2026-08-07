@@ -1,9 +1,9 @@
 {
   "name": "Vores Camping",
   "short_name": "Vores Camping",
-  "description": "Personlig campingdagbog med Ferie-Vagt, feriealbum og stort kortværksted, Ferie-Vagt og udvidet Openrouteservice-ruteplanlægning.",
+  "description": "Personlig campingdagbog med Ferie-Vagt, feriealbum, stort kortværksted og udvidet Openrouteservice-ruteplanlægning.",
   "lang": "da",
-  "start_url": "./index.html?v=25#overview",
+  "start_url": "./index.html?v=26#overview",
   "scope": "./",
   "display": "standalone",
   "background_color": "#f7f1e3",

@@ -1,0 +1,24 @@
+{
+  "version": "26.0",
+  "api_root": "https://api.heigit.org",
+  "services": {
+    "routing": "/openrouteservice/v2",
+    "geocoding": "/pelias/v1",
+    "pois": "/openpoiservice/v0/pois",
+    "elevation": "/openelevationservice/v0",
+    "optimization": "/vroom/v0"
+  },
+  "limits_used_by_app": {
+    "directions_waypoints": 50,
+    "poi_radius_m": 2000,
+    "matrix_dynamic_locations_per_batch": 25,
+    "elevation_vertices": 2000,
+    "optimization_jobs": 50,
+    "optimization_vehicles": 3
+  },
+  "features": [
+    "geocode", "autocomplete", "reverse_geocode", "directions_geojson", "directions_json", "directions_gpx",
+    "snap_geojson", "snap_json", "isochrones", "matrix", "matrix_batching", "pois", "poi_stats", "elevation_point",
+    "elevation_line", "optimization", "profile_safe_avoid_features", "profile_specific_extra_info", "diagnostics"
+  ]
+}
