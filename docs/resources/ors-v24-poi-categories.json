@@ -1,0 +1,1747 @@
+{
+  "accomodation": {
+    "id": 100,
+    "categories": [
+      {
+        "id": 101,
+        "name": "alpine_hut",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 102,
+        "name": "apartment",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 103,
+        "name": "camp_site",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 104,
+        "name": "caravan_site",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 105,
+        "name": "chalet",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 106,
+        "name": "guest_house",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 107,
+        "name": "hostel",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 108,
+        "name": "hotel",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 109,
+        "name": "motel",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 110,
+        "name": "wilderness_hut",
+        "osm_tag": "tourism"
+      }
+    ]
+  },
+  "animals": {
+    "id": 120,
+    "categories": [
+      {
+        "id": 121,
+        "name": "animal_boarding",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 122,
+        "name": "animal_shelter",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 123,
+        "name": "veterinary",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 124,
+        "name": "pet",
+        "osm_tag": "shop"
+      }
+    ]
+  },
+  "arts_and_culture": {
+    "id": 130,
+    "categories": [
+      {
+        "id": 131,
+        "name": "arts_centre",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 133,
+        "name": "library",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 135,
+        "name": "place_of_worship",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 136,
+        "name": "studio",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 132,
+        "name": "gallery",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 134,
+        "name": "museum",
+        "osm_tag": "tourism"
+      }
+    ]
+  },
+  "education": {
+    "id": 150,
+    "categories": [
+      {
+        "id": 151,
+        "name": "college",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 152,
+        "name": "driving_school",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 153,
+        "name": "kindergarten",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 154,
+        "name": "language_school",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 155,
+        "name": "music_school",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 156,
+        "name": "school",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 157,
+        "name": "university",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "facilities": {
+    "id": 160,
+    "categories": [
+      {
+        "id": 161,
+        "name": "compressed_air",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 162,
+        "name": "bench",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 163,
+        "name": "emergency_phone",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 164,
+        "name": "clock",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 166,
+        "name": "drinking_water",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 168,
+        "name": "hunting_stand",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 169,
+        "name": "internet_cafe",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 170,
+        "name": "kneipp_water_cure",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 171,
+        "name": "post_box",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 172,
+        "name": "recycling",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 174,
+        "name": "sanitary_dump_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 175,
+        "name": "shelter",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 176,
+        "name": "shower",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 177,
+        "name": "table",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 178,
+        "name": "telephone",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 179,
+        "name": "toilets",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 180,
+        "name": "waste_basket",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 181,
+        "name": "waste_disposal",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 182,
+        "name": "water_point",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 205,
+        "name": "access_point",
+        "osm_tag": "emergency"
+      },
+      {
+        "id": 165,
+        "name": "defibrillator",
+        "osm_tag": "emergency"
+      },
+      {
+        "id": 167,
+        "name": "fire_hydrant",
+        "osm_tag": "emergency"
+      }
+    ]
+  },
+  "financial": {
+    "id": 190,
+    "categories": [
+      {
+        "id": 191,
+        "name": "atm",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 192,
+        "name": "bank",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 193,
+        "name": "bureau_de_change",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "healthcare": {
+    "id": 200,
+    "categories": [
+      {
+        "id": 201,
+        "name": "baby_hatch",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 202,
+        "name": "clinic",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 203,
+        "name": "dentist",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 204,
+        "name": "doctors",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 206,
+        "name": "hospital",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 207,
+        "name": "nursing_home",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 208,
+        "name": "pharmacy",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 209,
+        "name": "retirement_home",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 210,
+        "name": "social_facility",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 211,
+        "name": "blood_donation",
+        "osm_tag": "healthcare"
+      },
+      {
+        "id": 212,
+        "name": "vaccination",
+        "osm_tag": "healthcare:speciality"
+      },
+      {
+        "id": 213,
+        "name": "covid19",
+        "osm_tag": "vaccination"
+      }
+    ]
+  },
+  "historic": {
+    "id": 220,
+    "categories": [
+      {
+        "id": 221,
+        "name": "aircraft",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 222,
+        "name": "aqueduct",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 223,
+        "name": "archaeological_site",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 224,
+        "name": "castle",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 225,
+        "name": "cannon",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 226,
+        "name": "city_gate",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 227,
+        "name": "citywalls",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 228,
+        "name": "battlefield",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 229,
+        "name": "boundary_stone",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 230,
+        "name": "building",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 231,
+        "name": "farm",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 232,
+        "name": "fort",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 233,
+        "name": "gallows",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 234,
+        "name": "highwater_mark",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 235,
+        "name": "locomotive",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 236,
+        "name": "manor",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 237,
+        "name": "memorial",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 238,
+        "name": "milestone",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 239,
+        "name": "monastery",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 240,
+        "name": "monument",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 241,
+        "name": "optical_telegraph",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 242,
+        "name": "pillory",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 243,
+        "name": "ruins",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 244,
+        "name": "rune_stone",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 245,
+        "name": "ship",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 246,
+        "name": "tomb",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 247,
+        "name": "wayside_cross",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 248,
+        "name": "wayside_shrine",
+        "osm_tag": "historic"
+      },
+      {
+        "id": 249,
+        "name": "wreck",
+        "osm_tag": "historic"
+      }
+    ]
+  },
+  "leisure_and_entertainment": {
+    "id": 260,
+    "categories": [
+      {
+        "id": 261,
+        "name": "adult_gaming_centre",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 262,
+        "name": "amusement_arcade",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 263,
+        "name": "beach_resort",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 264,
+        "name": "bandstand",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 265,
+        "name": "bird_hide",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 266,
+        "name": "common",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 267,
+        "name": "dance",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 268,
+        "name": "dog_park",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 269,
+        "name": "firepit",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 270,
+        "name": "fishing",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 271,
+        "name": "fitness_centre",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 272,
+        "name": "garden",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 273,
+        "name": "golf_course",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 274,
+        "name": "hackerspace",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 275,
+        "name": "horse_riding",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 276,
+        "name": "ice_rink",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 277,
+        "name": "marina",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 278,
+        "name": "miniature_golf",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 279,
+        "name": "nature_reserve",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 280,
+        "name": "park",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 281,
+        "name": "picnic_table",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 282,
+        "name": "pitch",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 283,
+        "name": "playground",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 286,
+        "name": "sauna",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 287,
+        "name": "slipway",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 288,
+        "name": "sports_centre",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 289,
+        "name": "stadium",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 290,
+        "name": "summer_camp",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 291,
+        "name": "swimming_area",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 292,
+        "name": "swimming_pool",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 293,
+        "name": "track",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 294,
+        "name": "turkish_bath",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 295,
+        "name": "water_park",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 296,
+        "name": "wildlife_hide",
+        "osm_tag": "leisure"
+      },
+      {
+        "id": 284,
+        "name": "raceway",
+        "osm_tag": "highway"
+      },
+      {
+        "id": 297,
+        "name": "brothel",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 298,
+        "name": "casino",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 299,
+        "name": "cinema",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 300,
+        "name": "dive_centre",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 301,
+        "name": "dojo",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 302,
+        "name": "gambling",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 303,
+        "name": "nightclub",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 304,
+        "name": "planetarium",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 285,
+        "name": "public_bath",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 305,
+        "name": "social_centre",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 306,
+        "name": "spa",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 307,
+        "name": "stripclub",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 308,
+        "name": "aquarium",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 309,
+        "name": "theme_park",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 310,
+        "name": "zoo",
+        "osm_tag": "tourism"
+      }
+    ]
+  },
+  "natural": {
+    "id": 330,
+    "categories": [
+      {
+        "id": 331,
+        "name": "cave_entrance",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 332,
+        "name": "beach",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 333,
+        "name": "geyser",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 335,
+        "name": "peak",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 336,
+        "name": "rock",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 337,
+        "name": "saddle",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 338,
+        "name": "spring",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 339,
+        "name": "volcano",
+        "osm_tag": "natural"
+      },
+      {
+        "id": 340,
+        "name": "water",
+        "osm_tag": "natural"
+      }
+    ]
+  },
+  "public_places": {
+    "id": 360,
+    "categories": [
+      {
+        "id": 361,
+        "name": "embassy",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 362,
+        "name": "crematorium",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 363,
+        "name": "community_centre",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 364,
+        "name": "courthouse",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 365,
+        "name": "coworking_space",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 366,
+        "name": "crypt",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 367,
+        "name": "fire_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 368,
+        "name": "grave_yard",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 369,
+        "name": "police",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 370,
+        "name": "post_office",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 371,
+        "name": "prison",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 372,
+        "name": "ranger_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 373,
+        "name": "rescue_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 374,
+        "name": "townhall",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "service": {
+    "id": 390,
+    "categories": [
+      {
+        "id": 391,
+        "name": "beauty",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 392,
+        "name": "estate_agent",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 393,
+        "name": "dry_cleaning",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 394,
+        "name": "glaziery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 395,
+        "name": "hairdresser",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 396,
+        "name": "laundry",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 397,
+        "name": "massage",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 399,
+        "name": "tailor",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 400,
+        "name": "tattoo",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 398,
+        "name": "photo_booth",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "shops": {
+    "id": 420,
+    "categories": [
+      {
+        "id": 421,
+        "name": "agrarian",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 422,
+        "name": "alcohol",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 423,
+        "name": "antiques",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 424,
+        "name": "art",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 425,
+        "name": "bag",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 426,
+        "name": "bakery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 427,
+        "name": "bed",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 428,
+        "name": "beverages",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 429,
+        "name": "bicycle",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 430,
+        "name": "books",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 431,
+        "name": "boutique",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 432,
+        "name": "brewing_supplies",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 433,
+        "name": "business_machines",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 434,
+        "name": "butcher",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 435,
+        "name": "cafe",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 436,
+        "name": "camera",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 437,
+        "name": "candles",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 438,
+        "name": "car",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 439,
+        "name": "car_parts",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 440,
+        "name": "carpet",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 441,
+        "name": "curtain",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 442,
+        "name": "cheese",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 443,
+        "name": "chemist",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 444,
+        "name": "chocolate",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 447,
+        "name": "clothes",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 448,
+        "name": "coffee",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 449,
+        "name": "computer",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 450,
+        "name": "confectionery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 451,
+        "name": "convenience",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 452,
+        "name": "copyshop",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 453,
+        "name": "cosmetics",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 454,
+        "name": "dairy",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 455,
+        "name": "deli",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 456,
+        "name": "department_store",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 457,
+        "name": "doityourself",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 458,
+        "name": "electrical",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 459,
+        "name": "electronics",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 460,
+        "name": "erotic",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 461,
+        "name": "e-cigarette",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 462,
+        "name": "farm",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 463,
+        "name": "fashion",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 464,
+        "name": "fishing",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 465,
+        "name": "florist",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 466,
+        "name": "funeral_directors",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 467,
+        "name": "furniture",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 468,
+        "name": "games",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 469,
+        "name": "garden_centre",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 470,
+        "name": "garden_furniture",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 471,
+        "name": "gas",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 472,
+        "name": "general",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 473,
+        "name": "gift",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 474,
+        "name": "greengrocer",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 475,
+        "name": "grocery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 476,
+        "name": "interior_decoration",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 477,
+        "name": "hairdresser_supply",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 478,
+        "name": "hardware",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 479,
+        "name": "hearing_aids",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 480,
+        "name": "herbalist",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 481,
+        "name": "hifi",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 482,
+        "name": "houseware",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 483,
+        "name": "hunting",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 484,
+        "name": "insurance",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 485,
+        "name": "jewelry",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 486,
+        "name": "leather",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 487,
+        "name": "locksmith",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 488,
+        "name": "kiosk",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 489,
+        "name": "kitchen",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 490,
+        "name": "lamps",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 491,
+        "name": "lottery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 492,
+        "name": "mall",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 494,
+        "name": "medical_supply",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 495,
+        "name": "mobile_phone",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 496,
+        "name": "model",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 497,
+        "name": "motorcycle",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 498,
+        "name": "music",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 499,
+        "name": "musical_instrument",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 500,
+        "name": "nutrition_supplements",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 501,
+        "name": "newsagent",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 502,
+        "name": "optician",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 503,
+        "name": "organic",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 504,
+        "name": "outdoor",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 505,
+        "name": "paint",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 506,
+        "name": "pastry",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 507,
+        "name": "perfumery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 508,
+        "name": "photo",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 509,
+        "name": "pyrotechnics",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 510,
+        "name": "radiotechnics",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 511,
+        "name": "seafood",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 512,
+        "name": "second_hand",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 513,
+        "name": "security",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 514,
+        "name": "shoes",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 515,
+        "name": "spices",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 516,
+        "name": "sports",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 517,
+        "name": "stationery",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 518,
+        "name": "supermarket",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 519,
+        "name": "swimming_pool",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 520,
+        "name": "tea",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 521,
+        "name": "ticket",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 522,
+        "name": "tiles",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 523,
+        "name": "tobacco",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 524,
+        "name": "toys",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 525,
+        "name": "trophy",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 526,
+        "name": "tyres",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 527,
+        "name": "variety_store",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 529,
+        "name": "video",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 530,
+        "name": "video_games",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 531,
+        "name": "watches",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 532,
+        "name": "weapons",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 533,
+        "name": "wine",
+        "osm_tag": "shop"
+      },
+      {
+        "id": 493,
+        "name": "marketplace",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 528,
+        "name": "vending_machine",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "sustenance": {
+    "id": 560,
+    "categories": [
+      {
+        "id": 561,
+        "name": "bar",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 562,
+        "name": "bbq",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 563,
+        "name": "biergarten",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 564,
+        "name": "cafe",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 565,
+        "name": "drinking_water",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 566,
+        "name": "fast_food",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 567,
+        "name": "food_court",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 568,
+        "name": "ice_cream",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 569,
+        "name": "pub",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 570,
+        "name": "restaurant",
+        "osm_tag": "amenity"
+      }
+    ]
+  },
+  "transport": {
+    "id": 580,
+    "categories": [
+      {
+        "id": 581,
+        "name": "aerodrome",
+        "osm_tag": "aeroway"
+      },
+      {
+        "id": 598,
+        "name": "helipad",
+        "osm_tag": "aeroway"
+      },
+      {
+        "id": 599,
+        "name": "heliport",
+        "osm_tag": "aeroway"
+      },
+      {
+        "id": 583,
+        "name": "bicycle_parking",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 584,
+        "name": "bicycle_rental",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 585,
+        "name": "bicycle_repair_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 586,
+        "name": "boat_sharing",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 587,
+        "name": "bus_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 588,
+        "name": "bus_stop",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 589,
+        "name": "car_rental",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 590,
+        "name": "car_repair",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 591,
+        "name": "car_sharing",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 592,
+        "name": "car_wash",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 593,
+        "name": "charging_station",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 594,
+        "name": "ev_charging",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 595,
+        "name": "ferry_terminal",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 596,
+        "name": "fuel",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 600,
+        "name": "motorcycle_parking",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 601,
+        "name": "parking",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 602,
+        "name": "parking_entrance",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 603,
+        "name": "parking_space",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 606,
+        "name": "taxi",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 597,
+        "name": "halt",
+        "osm_tag": "railway"
+      },
+      {
+        "id": 604,
+        "name": "station",
+        "osm_tag": "railway"
+      },
+      {
+        "id": 605,
+        "name": "tram_stop",
+        "osm_tag": "railway"
+      },
+      {
+        "id": 607,
+        "name": "platform",
+        "osm_tag": "public_transport"
+      },
+      {
+        "id": 608,
+        "name": "stop_position",
+        "osm_tag": "public_transport"
+      },
+      {
+        "id": 609,
+        "name": "stop_area",
+        "osm_tag": "public_transport"
+      },
+      {
+        "id": 610,
+        "name": "station",
+        "osm_tag": "public_transport"
+      }
+    ]
+  },
+  "tourism": {
+    "id": 620,
+    "categories": [
+      {
+        "id": 621,
+        "name": "artwork",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 622,
+        "name": "attraction",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 624,
+        "name": "information",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 625,
+        "name": "picnic_site",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 627,
+        "name": "viewpoint",
+        "osm_tag": "tourism"
+      },
+      {
+        "id": 623,
+        "name": "fountain",
+        "osm_tag": "amenity"
+      },
+      {
+        "id": 626,
+        "name": "travel_agency",
+        "osm_tag": "shop"
+      }
+    ]
+  }
+}
